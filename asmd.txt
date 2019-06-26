@@ -1,0 +1,24 @@
+Problem Definition:
+
+A company named "Fabrikam" is a multinational company want to host internet public website where customers get to know various product and product details with online shopping experience and feedback mechanism too.also employees can be able to access feedbacks and leave information using its Amazon Webservices Cloud as IAAS.
+
+
+
+Functional Requirements:
+1.User Accounts
+2.FeedBack System
+3.Leave MAnagement 
+4.Product catalog
+5.Shopping cart
+6.Order Processing
+7.Payment 
+
+Non-Functional Requirement:
+Performance:
+Throughput
+scalability
+avalability
+reliablity
+maintainability
+security
+reusability
